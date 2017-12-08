@@ -10,21 +10,28 @@ layout: null
 	<title>Adria Optika | webSite Under Construction</title>
   
 <style>
-  body {
-    background-color: #d35400;
-    padding: 0;
-    margin: 0;
+body {
+    background-color: lime;
     color: #fff;
     font: 14px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
     line-height: normal;
     line-height: 1.5em;
     text-align: center;
-    height: 100%;
-    position: relative;
-    overflow: hidden;
-    -webkit-transition: background-color 0.6s ease-in-out 0s;
-    transition: background-color 0.6s ease-in-out 0s;
-}  
+}
+#preview-area {
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 60px;
+    right: 0;
+    margin: auto;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
  .sk-circle {
   margin: 100px auto;
   width: 40px;
@@ -150,6 +157,7 @@ layout: null
 
 </head>
 <body>
+<div id="preview-area">
   <div class="sk-circle">
   <div class="sk-circle1 sk-child"></div>
   <div class="sk-circle2 sk-child"></div>
@@ -163,6 +171,7 @@ layout: null
   <div class="sk-circle10 sk-child"></div>
   <div class="sk-circle11 sk-child"></div>
   <div class="sk-circle12 sk-child"></div>
+  </div>
 </div>
 </body>
 </html>
