@@ -6,3 +6,5 @@ categories: jekyll update
 ---
 
 ### Benvenuti sul sito AdriaOptika
+
+oggi abbiamo creato insieme con Enrico il nuovo sito di AdriaOPTIKA.
