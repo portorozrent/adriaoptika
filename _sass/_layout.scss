@@ -2,26 +2,29 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    border-top: 9px solid $grey-color-dark;
+    border-bottom: 9px solid $grey-color-dark;
     min-height: 56px;
+    background-color: $grey-color-light;
 
     // Positioning context for the mobile navigation icon
     position: relative;
 }
 
 .site-title {
-    font-size: 26px;
-    font-weight: 300;
+    font-size: 34px;
+    font-weight: 700;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-
-    &,
-    &:visited {
-        color: $grey-color-dark;
-    }
+}
+a.site-title {
+  color: $brand-color;
+  &:hover{
+    text-decoration: none;
+    color: #0038ff;
+  }
 }
 
 .site-nav {
@@ -33,12 +36,17 @@
     }
 
     .page-link {
-        color: $text-color;
+        font-weight: 500;
+        color: $brand-color;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
             margin-right: 20px;
+        }
+        &:hover{
+          text-decoration: none;
+          color: #0038ff;
         }
     }
 
@@ -92,7 +100,21 @@
     }
 }
 
-
+.home{
+  background: url('/img/overlay.png'), url(/img/zegna.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  min-height: 450px;
+}
+.h1-home {
+  color: white;
+  font-weight: 600;
+  font-size: 39px;
+  padding-top: 10px;
+  line-height: 1.8;
+  }
 
 /**
  * Site footer
@@ -115,7 +137,7 @@
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $grey-color;
+    color: $grey-color-dark;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
