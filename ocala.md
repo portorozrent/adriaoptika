@@ -4,18 +4,8 @@ title: OČALA
 permalink: /ocala/
 ---
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut odio. Nam sed est. Nam a risus et est iaculis adipiscing. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer ut justo. In tincidunt viverra nisl. Donec dictum malesuada magna. Curabitur id nibh auctor tellus adipiscing pharetra. Fusce vel justo non orci semper feugiat. Cras eu leo at purus ultrices tristique.
+## Korekcijska stekla / Vid
+Adria Optika je od nekdaj zavezana, da zagotavlja udobje in vizijo za svoje stranke. Na našem prodajnem mestu najdete veliko izbiro očal za vid in vrst leč za vsako priložnost. Poleg tega, so v zadnjih letih firmirani okvirji postali pravi must have: za popolno udobje vizije je potrebno spremljati estetiko, ki ustreza obrazu osebe. Vsa naša očala so dragocena proizvodnja made in Italy in jih spremlja certifikat, ki pričajo značilnosti in izvirnost.
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
----
-layout: page
-title: Za Nas
-permalink: /about/
----
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut odio. Nam sed est. Nam a risus et est iaculis adipiscing. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer ut justo. In tincidunt viverra nisl. Donec dictum malesuada magna. Curabitur id nibh auctor tellus adipiscing pharetra. Fusce vel justo non orci semper feugiat. Cras eu leo at purus ultrices tristique.
-
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
-
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+## Očala / Sonce
+Adria Optika ima izpostavljenih več kot tisoč sončnih očal zadnjih kolekcij prestižnih znamk. Sončna očala morajo biti predvsem zaščitena pred nevarnim in nadležnim sevanjem; npr. ultraviolično in ifrardeče lahko povzroči poškodbe očesne leče in roženice. Zato skrbno izbiramo kvaliteto leč v našem razstavnem prostoru. Pri nas dobite leče primerne za vse svetlosti in okolja, vedno v skladu z modnimi trendi. 

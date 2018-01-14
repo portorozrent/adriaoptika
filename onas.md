@@ -4,8 +4,9 @@ title: O NAS
 permalink: /o-nas/
 ---
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut odio. Nam sed est. Nam a risus et est iaculis adipiscing. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer ut justo. In tincidunt viverra nisl. Donec dictum malesuada magna. Curabitur id nibh auctor tellus adipiscing pharetra. Fusce vel justo non orci semper feugiat. Cras eu leo at purus ultrices tristique.
+## Adria Optika <br/> samo najboljše <br/> za vaše oči
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+Specializirani smo za kontaktne leče, pri meritvi vaše dioptrie in garantiramo hitro dostavo očal saj imamo notranji laboratorij. Izbirate lahko med več tisoč sončnimi očali in očali za vid.
 
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+Adria Optika ima 30 let izkušenj na področju prodaje in servisa optike.
+Očala za vid niso le pomoč s katero si pomagamo zmanjšati primankljaj vida. Je tudi dodatek, ki uzvišuje vaš videz, ki dopolni vaš stil in se mora prilagoditi različnim trenutkom vašega vsakdanja: služba, prosi čas, šport. Smo generalni zastopnik Marcolin Eyewear za Slovenijo. 
