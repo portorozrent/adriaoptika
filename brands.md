@@ -20,8 +20,6 @@ images:
     title: go to eyewear collection
   - image_path: /img/brand/guess.png
     title: go to eyewear collection
-  - image_path: /img/brand/guess.png
-    title: go to eyewear collection
   - image_path: /img/brand/harley.png
     title: go to eyewear collection
   - image_path: /img/brand/justcavalli.png

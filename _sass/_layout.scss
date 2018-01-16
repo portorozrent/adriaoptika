@@ -55,7 +55,7 @@ a.site-title {
         top: 9px;
         right: $spacing-unit / 2;
         background-color: $background-color;
-        border: 1px solid $grey-color-light;
+        border: 1px solid $brand-color;
         border-radius: 5px;
         text-align: right;
 
@@ -67,6 +67,7 @@ a.site-title {
             line-height: 0;
             padding-top: 10px;
             text-align: center;
+            box-sizing: content-box;
 
             > svg {
                 width: 18px;
