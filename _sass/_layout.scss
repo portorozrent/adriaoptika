@@ -91,6 +91,7 @@ a.site-title {
         .page-link {
             display: block;
             padding: 5px 10px;
+            color: $brand-color;
 
             &:not(:last-child) {
                 margin-right: 0;
