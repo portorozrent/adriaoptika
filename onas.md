@@ -6,9 +6,7 @@ permalink: /o-nas/
 
 ## Adria Optika samo najboljše za vaše oči
 
-Adria Optika ima 30 let izkušenj na področju prodaje in servisa optike.
-Očala za vid niso le pomoč s katero si pomagamo zmanjšati primankljaj vida.
-Je tudi dodatek, ki uzvišuje vaš videz, ki dopolni vaš stil in se mora prilagoditi različnim trenutkom vašega vsakdanja: služba, prosti čas, šport. Smo generalni zastopnik Marcolin Eyewear za Slovenijo.
+Smo optika v Portorožu z 30 letno tradicijo. Nahajamo se na naslovu Obala 26 v neposredni bližini tenis igrišč. Pri nas lahko izbirate med pestro ponudbo korekcijskih ter sončnih očal vodilnih svetovnih blagovnih znamk kot so TOM FORD, ROBERTO CAVALLI, DSQUARED, DIESEL, JUST CAVALLI, GUESS, TIMBERLAND, GUESS MARCIANO, MONT BLANC, GANT.
 
 Pohvalimo se lahko tudi z  sodobno očesno ambulanto z najsodobnejšimi optičnimi stroji in napravami. Preglede, opravlja enkrat tedensko po predhodnem naročilu
 ga. Stanka Godina Kariž, dr. med. specialist oftalmolog. Pregled zajema merjenje dioptrije, kontrola očesnega ozadja ter očesnega pritiska.
