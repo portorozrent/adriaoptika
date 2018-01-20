@@ -4,6 +4,8 @@ title: LEČE
 permalink: /lece/
 ---
 
+<img src="/img/lece-banner.jpg" alt="">
+
 Pri Adria Optika boste našli tudi barvo, ki jo imate najraje: Dnevne - Freshlook one day (10pack): barve na razpolago - blue, green, gray, hazle
 
 Mesečne - Freshlook colors in colorblends (2pack): barve na razpolago - blue, green, grey, hazel, amethyst, brown, honey, turqoise, brilliant blue, gemstone green, saphire blue, sterling grey;
