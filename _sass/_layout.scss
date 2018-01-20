@@ -58,6 +58,7 @@ a.site-title {
         border: 1px solid $brand-color;
         border-radius: 5px;
         text-align: right;
+        z-index: 5000;
 
         .menu-icon {
             display: block;
