@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: home
 permalink: /piskotki/
-sitemap: false
 ---
 # O piškotkih
 
