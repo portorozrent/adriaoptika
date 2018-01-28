@@ -1,5 +1,5 @@
 ---
-layout: null
+layout: page
 permalink: /piskotki/
 ---
 # O piškotkih
