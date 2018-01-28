@@ -1,8 +1,8 @@
 ---
 layout: gallery
-title: BRANDS
-excerpt: brand adria optika
-permalink: /brands/
+title: ZNAMKE
+excerpt: Smo generalni zastopnik Marcolin Eyewear za Slovenijo | Tom Ford, Guess, Cavalli, Montbalnc, Dsquared, Swarovski, Gant, Timberland ...
+permalink: /znamke/
 sitemap: true
 
 images:
