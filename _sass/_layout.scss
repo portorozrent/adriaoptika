@@ -1,6 +1,3 @@
-/**
- * Site header
- */
 .site-header {
     min-height: 100px;
     background-color: $brand-color;
@@ -115,6 +112,14 @@ a.site-title {
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+  }
+.center {
+  max-width: 900px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: $spacing-unit / 100;
+  padding-left: $spacing-unit / 100;
+  @extend %clearfix;
 }
 
 .footer-heading {
@@ -126,12 +131,14 @@ a.site-title {
 .social-media-list {
     list-style: none;
     margin-left: 0;
+    line-height: 2;
 }
 
 .footer-col-wrapper {
     font-size: 15px;
     color: $grey-color-dark;
-    margin-left: -$spacing-unit / 2;
+    margin-left: $spacing-unit / 2;
+    margin-top: $spacing-unit ;
     @extend %clearfix;
 }
 
@@ -142,20 +149,21 @@ a.site-title {
 }
 
 .footer-col-1 {
-    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-    width:         calc(35% - (#{$spacing-unit} / 2));
+    width: 33%;
 }
 
 .footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
+    width: 33%;
 }
 
 .footer-col-3 {
-    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-    width:         calc(45% - (#{$spacing-unit} / 2));
+    width: 33%;
 }
-
+.piskotki {
+    font-size: 11px;
+    text-align: center;
+    padding: 15px;
+}
 @include media-query($on-laptop) {
     .footer-col-1,
     .footer-col-2 {
