@@ -16,7 +16,7 @@ dl, dd, ol, ul, figure {
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
-    background-color: $background-color;
+    background: url('/img/Cool-Geometric-Wave-Background.jpg'), $background-color;
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
     -moz-font-feature-settings: "kern" 1;
@@ -24,8 +24,6 @@ body {
     font-feature-settings: "kern" 1;
     font-kerning: normal;
 }
-
-
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -37,17 +35,21 @@ ul, ol, dl, figure,
     margin-bottom: $spacing-unit / 2;
 }
 
-
-
 /**
  * Images
  */
 img {
     max-width: 100%;
     vertical-align: middle;
+    transition: all .2s ease-in-out;
 }
-
-
+.transform-big:hover {
+     transform: scale(1.1);
+}
+.transform-reverse:hover {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
 
 /**
  * Figures

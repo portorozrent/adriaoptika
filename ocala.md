@@ -12,6 +12,6 @@ Adria Optika je od nekdaj zavezana, da zagotavlja udobje in vizijo za svoje stra
 
 ## Očala / Sonce
 
-<img src="/img/banner-home-sunglasses.jpg" alt="">
+<img class="transform-reverse" src="/img/banner-home-sunglasses.jpg" alt="">
 
 Adria Optika ima izpostavljenih več kot tisoč sončnih očal zadnjih kolekcij prestižnih znamk. Sončna očala morajo biti predvsem zaščitena pred nevarnim in nadležnim sevanjem; npr. ultraviolično in ifrardeče lahko povzroči poškodbe očesne leče in roženice. Zato skrbno izbiramo kvaliteto leč v našem razstavnem prostoru. Pri nas dobite leče primerne za vse svetlosti in okolja, vedno v skladu z modnimi trendi.

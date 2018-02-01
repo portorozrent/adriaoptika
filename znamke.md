@@ -57,6 +57,6 @@ Očala za vid niso le pomoč s katero si pomagamo zmanjšati primankljaj vida. J
 
 <ul class="photo-gallery">
   {% for image in page.images %}
-    <li><a href="http://it.marcolin.com/brands/" rel="nofollow" title="go to Marcolin Eyewear Brands Collection"><img src="{{ image.image_path }}" alt="{{ image.title}}" title="{{ image.title}}"/></a></li>
+    <li><a href="http://it.marcolin.com/brands/" rel="nofollow" title="go to Marcolin Eyewear Brands Collection"><img class="transform-big" src="{{ image.image_path }}" alt="{{ image.title}}" title="{{ image.title}}"/></a></li>
   {% endfor %}
 </ul>
