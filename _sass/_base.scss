@@ -16,7 +16,8 @@ dl, dd, ol, ul, figure {
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
-    background: url('/img/Cool-Geometric-Wave-Background.jpg'), $background-color;
+    background: #f933b5 url("/img/stars.png") repeat top center;
+    z-index: 0;
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
     -moz-font-feature-settings: "kern" 1;
@@ -24,6 +25,8 @@ body {
     font-feature-settings: "kern" 1;
     font-kerning: normal;
 }
+
+
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -163,7 +166,15 @@ pre {
     }
 }
 
-
+.box-white {
+  background: white;
+  margin-top: 50px;
+  padding-top: 70px;
+  padding-bottom: 70px;
+  border: 1px solid rgba(0, 32, 170, 0.99);
+  box-shadow: 5px 0px 40px rgba(0, 32, 170, 0.66);
+  border-radius: 20px;
+}
 
 /**
  * Wrapper
@@ -183,6 +194,10 @@ pre {
         padding-right: $spacing-unit / 2;
         padding-left: $spacing-unit / 2;
     }
+    @include media-query($on-palm) {
+        margin-left: 5px;
+        margin-right: 5px;
+        }
 }
 
 
@@ -198,8 +213,6 @@ pre {
         clear: both;
     }
 }
-
-
 
 /**
  * Icons
