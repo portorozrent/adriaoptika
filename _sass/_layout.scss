@@ -1,10 +1,9 @@
 .site-header {
     min-height: 100px;
-    background-color: #000;
+    background-color: $brand-color;
     padding: 15px;
     // Positioning context for the mobile navigation icon
     position: relative;
-    border-bottom: 3px solid $brand-color;
 }
 
 .site-title {
@@ -105,7 +104,7 @@ a.site-title {
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
-    background: #001440 url("/img/stars.png") repeat top center;
+    background: white;
   }
 .center {
   max-width: 900px;

@@ -16,7 +16,7 @@ dl, dd, ol, ul, figure {
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
-    background: #f933b5 url("/img/stars.png") repeat top center;
+    background: #fff;
     z-index: 0;
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
@@ -171,9 +171,6 @@ pre {
   margin-top: 50px;
   padding-top: 70px;
   padding-bottom: 70px;
-  border: 1px solid rgba(0, 32, 170, 0.99);
-  box-shadow: 5px 0px 40px rgba(0, 32, 170, 0.66);
-  border-radius: 20px;
 }
 
 /**
