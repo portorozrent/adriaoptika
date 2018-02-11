@@ -6,19 +6,19 @@ excerpt: Adria Optika samo najboljše za vaše oči
 
 <div class="mySlides2 fade">
   <div class="numbertext"></div>
-  <img src="/img/img_01.jpg" style="width:100%">
+  <img src="/img/img_01.jpg" style="width:100%; min-height:250px">
   <div class="text">DOBRODOŠLI V OPTIKI ADRIA</div>
 </div>
 
 <div class="mySlides2 fade">
   <div class="numbertext"></div>
-  <img src="/img/img_02.jpg" style="width:100%">
+  <img src="/img/img_02.jpg" style="width:100%; min-height:250px">
   <div class="text">25 let skrbimo za vaš lepši pogled na svet</div>
 </div>
 
 <div class="mySlides2 fade">
   <div class="numbertext"></div>
-  <img src="/img/img_03.jpg" style="width:100%">
+  <img src="/img/img_03.jpg" style="width:100%; min-height:250px">
   <div class="text">Najnovejša okulistična ambulanta</div>
 </div>
 
@@ -45,16 +45,14 @@ excerpt: Adria Optika samo najboljše za vaše oči
 
       <video width="100%" max-height="900" autoplay>
        <source src="img/tomford.mp4" type="video/mp4">
+       <source src="img/tomford.webm" type="video/webm">
       Your browser does not support the video tag.
       </video>
-
 
       <div class="tech-slideshow">
         <div class="mover-1"></div>
         <div class="mover-2"></div>
       </div>
-
-
 
     </section>
     <br/><br/>
@@ -175,4 +173,7 @@ excerpt: Adria Optika samo najboljše za vaše oči
         dots[slideIndex-1].className += " active";
         setTimeout(showSlides, 2000); // Change image every 2 seconds
     }
+    </script>
+    <script>
+    var video = document.getElementById('video'); video.addEventListener('click',function(){ video.play(); },false);
     </script>
