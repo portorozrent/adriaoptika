@@ -98,13 +98,18 @@ a.site-title {
     }
 }
 
+.home {
+  background: rgba(184, 184, 184, 0.75);
+}
+
+
 /**
  * Site footer
  */
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
-    background: white;
+    background: $brand-color-light;
   }
 .center {
   max-width: 900px;

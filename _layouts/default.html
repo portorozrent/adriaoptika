@@ -6,12 +6,54 @@
   <body>
 
     {% include header.html %}
-
+    <div class="home">
     <div class="page-content">
       <div class="wrapper">
         {{ content }}
       </div>
     </div>
+  </div>
+    <br/><br/>
+    <div id="footer-brands">
+      <div class="slideshow-container">
+
+      <div class="mySlides fade">
+
+        <img src="/img/01.jpg" style="width:100%">
+
+      </div>
+
+      <div class="mySlides fade">
+
+        <img src="/img/02.jpg" style="width:100%">
+
+      </div>
+
+      <div class="mySlides fade">
+
+        <img src="/img/03.jpg" style="width:100%">
+
+      </div>
+
+      <div class="mySlides fade">
+
+        <img src="/img/04.jpg" style="width:100%">
+
+      </div>
+
+
+
+      </div>
+      <br>
+
+      <div style="text-align:center">
+        <span class="dot" onclick="currentSlide(1)"></span>
+        <span class="dot" onclick="currentSlide(2)"></span>
+        <span class="dot" onclick="currentSlide(3)"></span>
+        <span class="dot" onclick="currentSlide(4)"></span>
+      </div>
+    </div>
+    <br/><br/>
 
     {% include footer.html %}
 
