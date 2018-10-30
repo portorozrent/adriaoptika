@@ -116,7 +116,16 @@ a.site-title {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
     background: $brand-color-light;
+    color: #FFF;
   }
+
+footer a {
+  color: #FFF;
+}
+footer a:hover {
+  color: #FFF;
+  text-decoration: none;
+}
 .center {
   max-width: 900px;
   margin-right: auto;
@@ -127,7 +136,12 @@ a.site-title {
 }
 
 .footer-heading {
-    font-size: 18px;
+  font-size: 20px;
+line-height: 24px;
+padding-bottom: 3px;
+font-weight: 700;
+color: #fff;
+letter-spacing: 0;
     margin-bottom: $spacing-unit / 2;
 }
 
@@ -140,7 +154,9 @@ a.site-title {
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $grey-color-dark;
+    font-weight: 400;
+    color: #FFF;
+    border-bottom: 1px solid #FFF;
     margin-left: $spacing-unit / 2;
     margin-top: $spacing-unit ;
     @extend %clearfix;
@@ -150,6 +166,7 @@ a.site-title {
     float: left;
     margin-bottom: $spacing-unit / 2;
     padding-left: $spacing-unit / 2;
+    text-align: center;
 }
 
 .footer-col-1 {
@@ -163,11 +180,15 @@ a.site-title {
 .footer-col-3 {
     width: 33%;
 }
+
 .piskotki {
-    font-size: 11px;
+    font-size: 12px;
+    line-height: 19px;
+    letter-spacing: 0.03em;
     text-align: center;
     padding: 15px;
 }
+
 @include media-query($on-laptop) {
     .footer-col-1,
     .footer-col-2 {
