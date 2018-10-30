@@ -3,9 +3,38 @@
 img {vertical-align: middle;}
 
 .slideshow-container {
-  max-width: 1000px;
   position: relative;
   margin: auto;
+  background-size: cover;
+  background-position: center;
+}
+
+.ears { margin: -100px 0 0 0;
+        position: relative;
+        padding-top: 100px;
+        z-index: 1;
+        background: #CACACA;
+}
+.ears::after {
+    transform: skewY(-7deg);
+    right: 0;
+    transform-origin: top left;
+}
+.ears::before {
+    transform: skewY(7deg);
+    left: 0;
+    transform-origin: top right;
+}
+.ears::after, .ears::before {
+    content: '';
+    display: block;
+    height: 500px;
+    position: absolute;
+    width: 50%;
+    background: #CACACA;
+    z-index: -1;
+    top: 0;
+    pointer-events: none;
 }
 
 .prev, .next {
@@ -34,7 +63,7 @@ img {vertical-align: middle;}
 .text {
   color: #fff;
   font-size: 37px;
-  padding: 8px 12px;
+  padding: 150px 0 0 0;
   position: absolute;
   top: 15px;
   width: 100%;
@@ -89,7 +118,10 @@ img {vertical-align: middle;}
   to {opacity: 1}
 }
 
-@media only screen and (max-width: 300px) {
-  .text {font-size: 18px; top: 50px;};
-  .prev, .next {font-size:11px;}
+@media only screen and (max-width: 800px) {
+  .text {padding: 75px 0 0 0;};
+}
+
+@media only screen and (max-width: 600px) {
+  .text {font-size: 18px;};
 }
