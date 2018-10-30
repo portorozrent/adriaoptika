@@ -1,7 +1,8 @@
 .site-header {
     min-height: 100px;
     background-color: $brand-color;
-    padding: 15px;
+    padding: 18px 0 18px 0;
+    width: 100%;
     // Positioning context for the mobile navigation icon
     position: relative;
 }
@@ -41,7 +42,7 @@ a.site-title {
         }
         &:hover{
           text-decoration: none;
-          color: #8a0004;
+          color: $brand-color-dark;
         }
     }
 
