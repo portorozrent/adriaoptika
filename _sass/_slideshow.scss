@@ -13,7 +13,7 @@ img {vertical-align: middle;}
         position: relative;
         padding-top: 100px;
         z-index: 1;
-        background: #CACACA;
+        background: #FFF;
 }
 .ears::after {
     transform: skewY(-7deg);
@@ -31,7 +31,7 @@ img {vertical-align: middle;}
     height: 500px;
     position: absolute;
     width: 50%;
-    background: #CACACA;
+    background: #FFF;
     z-index: -1;
     top: 0;
     pointer-events: none;
