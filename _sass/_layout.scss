@@ -157,6 +157,7 @@ letter-spacing: 0;
     font-weight: 400;
     color: #FFF;
     border-bottom: 1px solid #FFF;
+    max-width: 91%;
     margin-left: $spacing-unit / 2;
     margin-top: $spacing-unit ;
     @extend %clearfix;
