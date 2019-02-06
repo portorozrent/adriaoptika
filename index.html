@@ -1,5 +1,4 @@
 ---
-title: Optika Adria | Okulistične specialistične ambulante
 layout: home
 excerpt: Korekcijska očala & Sončna očala - Okulistične specialistične ambulante, samo najboljše za vaše oči.
 ---
@@ -33,6 +32,7 @@ excerpt: Korekcijska očala & Sončna očala - Okulistične specialistične ambu
 </div>
     <br/><br/>
   <div class="ears">
+    {% include breadcrumbs.html path=page.path title=page.title %}
     <section class="wrapper box-white">
       <h1>Adria Optika &middot; Portorož</h1>
       <p><strong>Korekcijska očala & Sončna očala</strong></p>
@@ -146,28 +146,3 @@ excerpt: Korekcijska očala & Sončna očala - Okulistične specialistične ambu
         src="https://www.google.com/maps/embed/v1/place?q=Portorose%20obala%2026&key=AIzaSyC2kW2ecTHUZxu4ntaVNDJpLPy2WpYI2og">
         </iframe>
     </div>
-
-    <script>
-    var slideIndex = 1;
-    showSlides();
-
-    function showSlides() {
-        var i;
-        var slides = document.getElementsByClassName("mySlides2");
-        var dots = document.getElementsByClassName("dot");
-        for (i = 0; i < slides.length; i++) {
-           slides[i].style.display = "none";
-        }
-        slideIndex++;
-        if (slideIndex > slides.length) {slideIndex = 1}
-        for (i = 0; i < dots.length; i++) {
-            dots[i].className = dots[i].className.replace(" active", "");
-        }
-        slides[slideIndex-1].style.display = "block";
-        dots[slideIndex-1].className += " active";
-        setTimeout(showSlides, 2000); // Change image every 2 seconds
-    }
-    </script>
-    <script>
-    var video = document.getElementById('video'); video.addEventListener('click',function(){ video.play(); },false);
-    </script>

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Novice | Optika Adria
+title: Novice
 excerpt: Najnovejše novice, nove kolekcije očal, popusti, promocije in prodaja optične trgovine Adria Optika.
 permalink: /novice/
 ---

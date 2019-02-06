@@ -1,3 +1,6 @@
+---
+layout: compress
+---
 <!DOCTYPE html>
 <html lang="sl-SI">
 {% include head.html %}
@@ -42,13 +45,28 @@
     </footer>
 
   </body>
+  <script>
+  var slideIndex = 1;
+  showSlides();
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({
-          google_ad_client: "ca-pub-2292514451269367",
-          enable_page_level_ads: true
-     });
-</script>
-
+  function showSlides() {
+      var i;
+      var slides = document.getElementsByClassName("mySlides2");
+      var dots = document.getElementsByClassName("dot");
+      for (i = 0; i < slides.length; i++) {
+         slides[i].style.display = "none";
+      }
+      slideIndex++;
+      if (slideIndex > slides.length) {slideIndex = 1}
+      for (i = 0; i < dots.length; i++) {
+          dots[i].className = dots[i].className.replace(" active", "");
+      }
+      slides[slideIndex-1].style.display = "block";
+      dots[slideIndex-1].className += " active";
+      setTimeout(showSlides, 2000);
+  }
+  </script>
+  <script>
+  var video = document.getElementById('video'); video.addEventListener('click',function(){ video.play(); },false);
+  </script>
 </html>

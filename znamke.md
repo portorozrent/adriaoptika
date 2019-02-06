@@ -1,6 +1,6 @@
 ---
 layout: gallery
-title: Naše znamke očal | Optika Adria
+title: Naše znamke očal
 excerpt: Sončna očala in korekcijska očala priznanih blagovnih znamk Tom Ford, Guess, Cavalli, Montbalnc, Dsquared, Swarovski, Gant, Timberland, Diesel..
 permalink: /znamke/
 sitemap: true
@@ -50,8 +50,13 @@ images:
 
 
 ## Naši očala
-Adria Optika ima 30 let izkušenj na področju prodaje in servisa optike.
-Očala za vid niso le pomoč s katero si pomagamo zmanjšati primankljaj vida. Je tudi dodatek, ki uzvišuje vaš videz, ki dopolni vaš stil in se mora prilagoditi različnim trenutkom vašega vsakdanja: služba, prosi čas, šport. Smo generalni zastopnik Marcolin Eyewear za Slovenijo.
+
+Adria Optika ima **[30 let izkušenj](/o-nas/)** na področju prodaje in servisa optike.
+Očala za vid niso le pomoč s katero si pomagamo zmanjšati primankljaj vida. Je tudi dodatek, ki uzvišuje vaš videz, ki dopolni vaš stil in se mora prilagoditi različnim trenutkom vašega vsakdanja: služba, prosi čas, šport.
+
+## Smo generalni zastopnik Marcolin Eyewear za Slovenijo
+[Sončna očala & korekcijska očala](/ocala/):
+**Tom Ford**, **Roberto Cavalli**, **Dsquared**, **Diesel**, **Just Cavalli**, **Guess**, **Timberland**, **Guess Marciano**, **Mont Blanc**, **Gant** ...
 
 <br/>
 
