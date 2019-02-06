@@ -1,7 +1,7 @@
 ---
 layout: gallery
-title: ZNAMKE
-excerpt: Smo generalni zastopnik Marcolin Eyewear za Slovenijo | Tom Ford, Guess, Cavalli, Montbalnc, Dsquared, Swarovski, Gant, Timberland ...
+title: Naše znamke očal | Optika Adria
+excerpt: Sončna očala in korekcijska očala priznanih blagovnih znamk Tom Ford, Guess, Cavalli, Montbalnc, Dsquared, Swarovski, Gant, Timberland, Diesel..
 permalink: /znamke/
 sitemap: true
 
@@ -49,7 +49,7 @@ images:
 ---
 
 
-### Naši artikli
+## Naši očala
 Adria Optika ima 30 let izkušenj na področju prodaje in servisa optike.
 Očala za vid niso le pomoč s katero si pomagamo zmanjšati primankljaj vida. Je tudi dodatek, ki uzvišuje vaš videz, ki dopolni vaš stil in se mora prilagoditi različnim trenutkom vašega vsakdanja: služba, prosi čas, šport. Smo generalni zastopnik Marcolin Eyewear za Slovenijo.
 

@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Piskotki | Optika Adria
 permalink: /piskotki/
 ---
 # O piškotkih

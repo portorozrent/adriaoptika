@@ -1,12 +1,11 @@
 ---
 layout: default
-title: NOVICE
+title: Novice | Optika Adria
+excerpt: Najnovejše novice, nove kolekcije očal, popusti, promocije in prodaja optične trgovine Adria Optika.
 permalink: /novice/
 ---
 
-
-
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Novice</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}

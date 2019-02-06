@@ -1,6 +1,7 @@
 ---
 layout: page
-title: O NAS
+title: O nas | Optika Adria
+excerpt: Okulistične specialistične ambulante, Smo optika v Portorožu z 30 letno tradicijo, smo generalni zastopnik Marcolin Eyewear za Slovenijo.
 permalink: /o-nas/
 ---
 
