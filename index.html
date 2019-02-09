@@ -131,6 +131,15 @@ excerpt: Korekcijska očala & Sončna očala - Okulistične specialistične ambu
         <input type="submit" class="btn" value="Pošlji rezervacijo" />
       </form>
 
+      <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+      <div
+          class="g-recaptcha"
+          data-sitekey="6LfMTpAUAAAAAEgDVid8ymC8RIF5fI5XNjZ7DJ4z"
+          data-callback="onSubmit"
+          data-size="invisible">
+      </div>
+
       <script>
           function onSubmit(token) {
               submitForm();
