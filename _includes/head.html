@@ -13,6 +13,11 @@
 {{ include_to_scssify | scssify }}
 </style>
 <script>
+  function onSubmit(token) {
+  submitForm();
+}
+</script>
+<script>
   function submitForm(){
   console.log('Initialize Server-Side Validation');
   fetch('https://adriaoptika.herokuapp.com/', {
