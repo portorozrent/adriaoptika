@@ -127,13 +127,39 @@ excerpt: Korekcijska očala & Sončna očala - Okulistične specialistične ambu
         <input type="hidden" name="*redirect" value="https://www.adriaoptika.si/grazie.html" />
 
       <br/>
-      <div id='recaptcha' class="g-recaptcha"
-     data-sitekey="6LfMTpAUAAAAAEgDVid8ymC8RIF5fI5XNjZ7DJ4z"
-     data-callback="onSubmit"
-     data-size="invisible"></div>
 
         <input type="submit" class="btn" value="Pošlji rezervacijo" />
       </form>
+
+      <script>
+          function onSubmit(token) {
+              submitForm();
+          }
+      </script>
+      <script>
+          function submitForm(){
+              var form = document.getElementById("my-form");
+
+              var captcha = document.querySelector('#g-recaptcha-response').value;
+
+              fetch('https://adriaoptika.herokuapp.com/', {
+                  method:'POST',
+                  headers: {
+                      'Accept': 'application/json, text/plain, */*',
+                      'Content-type':'application/json'
+                  },
+                  body:JSON.stringify({captcha: captcha})
+              })
+              .then((res) => res.json())
+              .then((data) => {
+                  console.log(data.success);
+                  if( data.success === true ){
+                      form.submit();
+                  }
+              });
+          }
+      </script>
+
     </div>
 
 

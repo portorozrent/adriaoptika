@@ -12,33 +12,6 @@
 {% endcapture %}
 {{ include_to_scssify | scssify }}
 </style>
-<script>
-  function onSubmit(token) {
-  submitForm();
-}
-</script>
-<script>
-  function submitForm(){
-  console.log('Initialize Server-Side Validation');
-  var captcha = document.querySelector('#g-recaptcha-response').value;
-  fetch('https://adriaoptika.herokuapp.com/', {
-    method:'POST',
-    headers: {
-      'Accept': 'application/json, text/plain, */*',
-      'Content-type':'application/json'
-    },
-    body:JSON.stringify({captcha: captcha})
-  })
-  .then((res) => res.json())
-  .then((data) => {
-    console.log(data.success);
-    if( data.success === true ){
-      document.getElementById("my-form").submit();
-    }
-  });
-}
-</script>
-<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-764914122"></script>
 <script>
 window.dataLayer = window.dataLayer || [];
