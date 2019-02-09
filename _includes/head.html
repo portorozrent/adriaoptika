@@ -20,6 +20,7 @@
 <script>
   function submitForm(){
   console.log('Initialize Server-Side Validation');
+  var captcha = document.querySelector('#g-recaptcha-response').value;
   fetch('https://adriaoptika.herokuapp.com/', {
     method:'POST',
     headers: {
