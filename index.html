@@ -146,27 +146,25 @@ excerpt: Korekcijska očala & Sončna očala - Okulistične specialistične ambu
           }
       </script>
       <script>
-          function submitForm(){
-              var form = document.getElementById("my-form");
-
-              var captcha = document.querySelector('#g-recaptcha-response').value;
-
-              fetch('https://adriaoptika.herokuapp.com/', {
-                  method:'POST',
-                  headers: {
-                      'Accept': 'application/json, text/plain, */*',
-                      'Content-type':'application/json'
-                  },
-                  body:JSON.stringify({captcha: captcha})
-              })
-              .then((res) => res.json())
-              .then((data) => {
-                  console.log(data.success);
-                  if( data.success === true ){
-                      form.submit();
-                  }
-              });
-          }
+      function submitForm(){
+      console.log('Initialize Server-Side Validation');
+      var captcha = document.querySelector('#g-recaptcha-response').value;
+      fetch('https://adriaoptika.herokuapp.com/', {
+        method:'POST',
+        headers: {
+          'Accept': 'application/json, text/plain, */*',
+          'Content-type':'application/json'
+        },
+        body:JSON.stringify({captcha: captcha})
+      })
+      .then((res) => res.json())
+      .then((data) => {
+        console.log(data.success);
+        if( data.success === true ){
+          document.getElementById("my-form").submit();
+        }
+      });
+    }
       </script>
 
     </div>
