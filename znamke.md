@@ -7,45 +7,43 @@ sitemap: true
 
 images:
   - image_path: /img/brand/balenciaga.png
-    title: go to eyewear collection
+    title: Balenciaga očala
   - image_path: /img/brand/deneuve.png
-    title: go to eyewear collection
+    title: Catherine Deneuve očala
   - image_path: /img/brand/diesel.png
-    title: go to eyewear collection
+    title: Diesel očala
   - image_path: /img/brand/dsquared.png
-    title: go to eyewear collection
+    title: Dsquared2 očala
   - image_path: /img/brand/emiliopucci.png
-    title: go to eyewear collection
+    title: Emilio Pucci očala
   - image_path: /img/brand/gant.png
-    title: go to eyewear collection
+    title: Gant očala
   - image_path: /img/brand/guess.png
-    title: go to eyewear collection
+    title: Guess očala
   - image_path: /img/brand/harley.png
-    title: go to eyewear collection
+    title: Harley-Davidson® očala
   - image_path: /img/brand/justcavalli.png
-    title: go to eyewear collection
+    title: Just Cavalli očala
   - image_path: /img/brand/marciano.png
-    title: go to eyewear collection
+    title: Marciano očala
   - image_path: /img/brand/moncler.png
-    title: go to eyewear collection
-  - image_path: /img/brand/montblanc.png
-    title: go to eyewear collection
+    title: Moncler očala
   - image_path: /img/brand/robertocavalli.png
-    title: go to eyewear collection
+    title: očala
   - image_path: /img/brand/skechers.png
-    title: go to eyewear collection
+    title: Skechers očala
   - image_path: /img/brand/swarovski.png
-    title: go to eyewear collection
+    title: Swarovski očala
   - image_path: /img/brand/timberland.png
-    title: go to eyewear collection
+    title: Timberland očala
   - image_path: /img/brand/tods.png
-    title: go to eyewear collection
+    title: Tod’s očala
   - image_path: /img/brand/tomford.png
-    title: go to eyewear collection
+    title: Tom Ford očala
   - image_path: /img/brand/web-eyewear.png
-    title: go to eyewear collection
+    title: Web Eyewear očala
   - image_path: /img/brand/zegna.png
-    title: go to eyewear collection
+    title: Ermenegildo Zegna očala
 ---
 
 
@@ -62,6 +60,6 @@ Očala za vid niso le pomoč s katero si pomagamo zmanjšati primankljaj vida. J
 
 <ul class="photo-gallery">
   {% for image in page.images %}
-    <li><a href="http://en.marcolin.com/brands/" rel="nofollow" title="go to Marcolin Eyewear Brands Collection"><img class="transform-big" src="{{ image.image_path }}" alt="{{ image.title}}" title="{{ image.title}}"/></a></li>
+    <li><a target="popupwindow" rel="nofollow noreferrer" onclick="window.open('http://en.marcolin.com/brands/', 'popupwindow', 'scrollbars=yes,width=800,height=500');return true"><img class="transform-big" src="{{ image.image_path }}" alt="{{ image.title}}" title="{{ image.title}}"/></a></li>
   {% endfor %}
 </ul>
