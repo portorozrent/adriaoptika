@@ -7,7 +7,29 @@ sitemap: false
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name = "referrer" content = "origin">
+<title>{% if page.title %}{{ page.title | escape }} | Optika Adria{% else %}{{ site.title | escape }}{% endif %}</title>
+{% seo title=false %}
+{% feed_meta %}
+<style>
+{% capture include_to_scssify %}
+{% include main.scss %}
+{% endcapture %}
+{{ include_to_scssify | scssify }}
+</style>
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-764914122"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'AW-764914122');
+</script>
+<script> gtag('event', 'conversion', { 'send_to': 'AW-764914122/P63CCKnCipUBEMrT3uwC', 'transaction_id': '' }); </script>
+</head>
 
   <body>
 
