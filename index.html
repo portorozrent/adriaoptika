@@ -95,26 +95,25 @@ excerpt: Korekcijska očala & Sončna očala - Okulistične specialistične ambu
       <p>Rezervirajte danes vaš pregled vida<p>
       </header>
 
-      <form id="my-form" action="https://www.enformed.io/ffygpct2" method="POST" >
+      <form id="my-form" action="https://jumprock.co/mail/portorozrent" method="POST" >
           <input type="hidden" name="*Pregled-vida" value="Pregled vida ADRIA OPTIKA" />
-          <input type="hidden" name="*cc" value="adriaplast@adriaplast.si" />
-
-      <br/>
+          <input type="hidden" name="cc[]" value="adriaplast@adriaplast.si">
+ 
+        <br/>
 
         <div class="form-group">
           <label>Ime in priimek</label><br/>
-          <input type="hidden" name="*honeypot" />
-          <input name="Ime in priimek" type="text" class="form-control" placeholder="Ime in priimek" required/>
+          <input type="text" name="Ime in priimek" class="form-control" placeholder="Ime in priimek" required/>
         </div>
       <br/>
         <div class="form-group">
           <label>Email</label><br/>
-          <input name="Email" type="email" class="form-input" placeholder="E-mail" required/>
+          <input type="email" name="Email" class="form-input" placeholder="E-mail" required/>
         </div>
       <br/>
         <div class="form-group">
           <label>Telefon</label><br/>
-          <input name="Telefon" type="tel" class="form-input" placeholder="Telefon" required/>
+          <input type="tel" name="Telefon" class="form-input" placeholder="Telefon" required/>
         </div>
 
       <br/>
@@ -124,10 +123,10 @@ excerpt: Korekcijska očala & Sončna očala - Okulistične specialistične ambu
           <textarea name="Pusti sporočilo" class="form-control" rows="5" cols="33" maxlength="500" placeholder="Pusti sporočilo"></textarea>
         </div>
 
-        <input type="hidden" name="*redirect" value="https://www.adriaoptika.si/grazie.html" />
+        <input type="hidden" name="after" value="https://www.adriaoptika.si/grazie.html" />
 
       <br/>
-        
+        <input type="text" name="trapit" value="" style="display:none">
         <input type="submit" class="g-recaptcha btn" value="Pošlji rezervacijo" data-sitekey="6LfMTpAUAAAAAEgDVid8ymC8RIF5fI5XNjZ7DJ4z" data-callback="onSubmit">
         
       </form>
