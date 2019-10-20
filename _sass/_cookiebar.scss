@@ -28,10 +28,10 @@
   text-align: right;
   a {
     text-decoration: none;
-    background-color: transparent;
+    background-color: #216475;
     -webkit-box-shadow: none;
     box-shadow: none;
-    color: #d2382b;
+    color: #fff;
     padding: 8px;
     font-weight: 700;
     text-transform: uppercase;
@@ -39,7 +39,7 @@
     display: inline-block;
     cursor: pointer;
     &:hover {
-      background-color: rgba(210,56,43,.18);
+      background-color: rgba(12, 12, 12, 0.5);
     }
   }
 }
