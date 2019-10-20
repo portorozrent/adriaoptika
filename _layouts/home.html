@@ -38,11 +38,14 @@ layout: compress
         </div>
       </div>
 
-      <div class="piskotki">
-        Da bi vam olajšali uporabo našega spletnega mesta, uporabljamo piškotke (angl. cookies).
-        <br/> Z uporabo strani soglašate z uporabo piškotkov. Kaj so <a href="/piskotki/" title="">piškotki</a>?
-      </div>
     </footer>
+
+    <script src="{{ site.baseurl }}/js/jquery.min.js"></script>
+    <script>
+        $(document).ready(function() {
+          $.cookieBar();
+        });
+    </script>
 
   </body>
   <script>
