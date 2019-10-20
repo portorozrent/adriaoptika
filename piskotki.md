@@ -5,7 +5,6 @@ permalink: /piskotki/
 ---
 <h1>Več o piškotkih</h1>
 
-</div>
   <br><br>
 
   <h2>Družbena omrežja</h2>
