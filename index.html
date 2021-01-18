@@ -95,12 +95,9 @@ excerpt: Korekcijska očala & Sončna očala - Okulistične specialistične ambu
       <p>Rezervirajte danes vaš pregled vida<p>
       </header>
 
-      <form id="my-form" action="https://www.enformed.io/ffygpct2" method="POST">
-          <input type="hidden" name="*formname" value="Pregled vida ADRIA OPTIKA" />
-          <input type="hidden" name="*subject" value="Pregled vida ADRIA OPTIKA" />
-          <input type="hidden" name="*cc" value="adriaplast@adriaplast.si">
- 
-        <br/>
+      <form id="my-form" action="https://formspree.io/f/xknpynyw" method="POST">
+          <input type="hidden" name="_subject" value="Pregled vida ADRIA OPTIKA" />
+           <br/>
 
         <div class="form-group">
           <label>Ime in priimek</label><br/>
@@ -128,37 +125,9 @@ excerpt: Korekcijska očala & Sončna očala - Okulistične specialistične ambu
 
       <br/>
         <input type="hidden" name="*honeypot" />
-        <input type="submit" class="g-recaptcha btn" value="Pošlji rezervacijo" data-sitekey="6LfMTpAUAAAAAEgDVid8ymC8RIF5fI5XNjZ7DJ4z" data-callback="onSubmit">
+        <input type="submit" class="g-recaptcha btn" value="Pošlji rezervacijo">
         
       </form>
-
-      <script src="https://www.google.com/recaptcha/api.js" async defer></script>
-      <script>
-        var form = document.getElementById("my-form");
-
-        function onSubmit(token) {
-            submitForm();
-        }
-
-        function submitForm(){
-            var captcha = document.querySelector('#g-recaptcha-response').value;
-            fetch('https://adriaoptika.herokuapp.com/', {
-                method:'POST',
-                headers: {
-                    'Accept': 'application/json, text/plain, */*',
-                    'Content-type':'application/json'
-                },
-                body:JSON.stringify({captcha: captcha})
-            })
-            .then((res) => res.json())
-            .then((data) => {
-                console.log(data.msg);
-                if( data.success === true ){
-                    form.submit();
-                }
-            });
-        }
-    </script>
 
     </div>
 
