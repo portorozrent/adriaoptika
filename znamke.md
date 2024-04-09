@@ -28,8 +28,6 @@ images:
     title: Marciano očala
   - image_path: /img/brand/moncler.png
     title: Moncler očala
-  - image_path: /img/brand/robertocavalli.png
-    title: očala
   - image_path: /img/brand/skechers.png
     title: Skechers očala
   - image_path: /img/brand/swarovski.png
