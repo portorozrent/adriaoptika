@@ -26,7 +26,7 @@ images:
     title: GCDS
   - image_path: /img/brand/HARLEY_DAVIDSON_LOGO.jpg
     title: Harley-Davidson
-  - image_path: /img/brand/MARCIANO.jpg
+  - image_path: /img/brand/MARCIANO_LOGO.jpg
     title: Maricano by Guess
   - image_path: /img/brand/SAINT_LAURENT_LOGO.png
     title: SAINT LAURENT
