@@ -6,7 +6,7 @@ permalink: /znamke/
 sitemap: true
 
 images:
-  - image_path: /img/brand/balenciaga.png
+  - image_path: /img/brand/ADIDAS_LOGO.jpg
     title: Balenciaga očala
   - image_path: /img/brand/deneuve.png
     title: Catherine Deneuve očala
