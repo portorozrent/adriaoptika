@@ -8,10 +8,10 @@ sitemap: true
 images:
   - image_path: /img/brand/ADIDAS_LOGO.jpg
     title: Adidas
-  - image_path: /img/brand/deneuve.png
-    title: Catherine Deneuve očala
-  - image_path: /img/brand/diesel.png
-    title: Diesel očala
+  - image_path: /img/brand/ADIDAS_SPORT_LOGO.jpg
+    title: Adidas Sport
+  - image_path: /img/brand/BMW_LOGO.png
+    title: BMW
   - image_path: /img/brand/dsquared.png
     title: Dsquared2 očala
   - image_path: /img/brand/emiliopucci.png
