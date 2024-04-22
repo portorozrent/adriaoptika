@@ -12,14 +12,14 @@ images:
     title: Adidas Sport
   - image_path: /img/brand/BMW_LOGO.png
     title: BMW
-  - image_path: /img/brand/dsquared.png
-    title: Dsquared2 očala
-  - image_path: /img/brand/emiliopucci.png
-    title: Emilio Pucci očala
-  - image_path: /img/brand/gant.png
-    title: Gant očala
-  - image_path: /img/brand/guess.png
-    title: Guess očala
+  - image_path: /img/brand/GANT_LOGO.jpg
+    title: Gant
+  - image_path: /img/brand/GCDS_LOGO.jpg
+    title: GCDS
+  - image_path: /img/brand/GUESS_LOGO.jpg
+    title: Guess
+  - image_path: /img/brand/HARLEY_DAVIDSON_LOGO.jpg
+    title: Harley Davidson
   - image_path: /img/brand/harley.png
     title: Harley-Davidson® očala
   - image_path: /img/brand/justcavalli.png
