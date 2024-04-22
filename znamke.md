@@ -19,17 +19,17 @@ images:
   - image_path: /img/brand/GUESS_LOGO.jpg
     title: Guess
   - image_path: /img/brand/HARLEY_DAVIDSON_LOGO.jpg
-    title: Harley Davidson
-  - image_path: /img/brand/harley.png
-    title: Harley-Davidson® očala
-  - image_path: /img/brand/justcavalli.png
-    title: Just Cavalli očala
-  - image_path: /img/brand/marciano.png
-    title: Marciano očala
-  - image_path: /img/brand/moncler.png
-    title: Moncler očala
-  - image_path: /img/brand/skechers.png
-    title: Skechers očala
+    title: Harley-Davidson
+  - image_path: /img/brand/MARCIANO.jpg
+    title: Maricano by Guess
+  - image_path: /img/brand/MAXMARA_LOGO.jpg
+    title: MaxMara
+  - image_path: /img/brand/MAX_CO_LOGO.jpg
+    title: Max&Co.
+  - image_path: /img/brand/SAINT_LAURENT_LOGO.png
+    title: SAINT LAURENT
+  - image_path: /img/brand/SKECHERS_LOGO.jpg
+    title: Skechers
   - image_path: /img/brand/swarovski.png
     title: Swarovski očala
   - image_path: /img/brand/timberland.png
