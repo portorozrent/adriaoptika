@@ -14,6 +14,8 @@ images:
     title: MaxMara
   - image_path: /img/brand/MAX_CO_LOGO.jpg
     title: Max&Co.
+  - image_path: /img/brand/GUCCI_LOGO.jpg
+    title: Gucci
   - image_path: /img/brand/ADIDAS_LOGO.jpg
     title: Adidas
   - image_path: /img/brand/ADIDAS_SPORT_LOGO.jpg
