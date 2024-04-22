@@ -16,6 +16,8 @@ images:
     title: Max&Co.
   - image_path: /img/brand/GUCCI_LOGO.jpg
     title: Gucci
+  - image_path: /img/brand/SAINT_LAURENT_LOGO.png
+    title: SAINT LAURENT
   - image_path: /img/brand/ADIDAS_LOGO.jpg
     title: Adidas
   - image_path: /img/brand/ADIDAS_SPORT_LOGO.jpg
@@ -30,8 +32,6 @@ images:
     title: Harley-Davidson
   - image_path: /img/brand/MARCIANO_LOGO.jpg
     title: Maricano by Guess
-  - image_path: /img/brand/SAINT_LAURENT_LOGO.png
-    title: SAINT LAURENT
   - image_path: /img/brand/SKECHERS_LOGO.jpg
     title: Skechers
   - image_path: /img/brand/TIMBERLAND_LOGO.jpg
