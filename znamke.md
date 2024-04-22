@@ -6,6 +6,14 @@ permalink: /znamke/
 sitemap: true
 
 images:
+  - image_path: /img/brand/TOM_FORD_LOGO.jpg
+    title: Tom Ford
+  - image_path: /img/brand/GUESS_LOGO.jpg
+    title: Guess
+  - image_path: /img/brand/MAXMARA_LOGO.jpg
+    title: MaxMara
+  - image_path: /img/brand/MAX_CO_LOGO.jpg
+    title: Max&Co.
   - image_path: /img/brand/ADIDAS_LOGO.jpg
     title: Adidas
   - image_path: /img/brand/ADIDAS_SPORT_LOGO.jpg
@@ -16,32 +24,16 @@ images:
     title: Gant
   - image_path: /img/brand/GCDS_LOGO.jpg
     title: GCDS
-  - image_path: /img/brand/GUESS_LOGO.jpg
-    title: Guess
   - image_path: /img/brand/HARLEY_DAVIDSON_LOGO.jpg
     title: Harley-Davidson
   - image_path: /img/brand/MARCIANO.jpg
     title: Maricano by Guess
-  - image_path: /img/brand/MAXMARA_LOGO.jpg
-    title: MaxMara
-  - image_path: /img/brand/MAX_CO_LOGO.jpg
-    title: Max&Co.
   - image_path: /img/brand/SAINT_LAURENT_LOGO.png
     title: SAINT LAURENT
   - image_path: /img/brand/SKECHERS_LOGO.jpg
     title: Skechers
-  - image_path: /img/brand/swarovski.png
-    title: Swarovski očala
-  - image_path: /img/brand/timberland.png
-    title: Timberland očala
-  - image_path: /img/brand/tods.png
-    title: Tod’s očala
-  - image_path: /img/brand/tomford.png
-    title: Tom Ford očala
-  - image_path: /img/brand/web-eyewear.png
-    title: Web Eyewear očala
-  - image_path: /img/brand/zegna.png
-    title: Ermenegildo Zegna očala
+  - image_path: /img/brand/TIMBERLAND_LOGO.jpg
+    title: Timberland
 ---
 
 
