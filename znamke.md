@@ -16,7 +16,7 @@ images:
     title: Max&Co.
   - image_path: /img/brand/GUCCI_LOGO.jpg
     title: Gucci
-  - image_path: /img/brand/SAINT_LAURENT_LOGO.png
+  - image_path: /img/brand/SAINT_LAURENT_LOGO_2.png
     title: SAINT LAURENT
   - image_path: /img/brand/ADIDAS_LOGO.jpg
     title: Adidas
