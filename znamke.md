@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: Naše znamke očal
-excerpt: Sončna očala in korekcijska očala priznanih blagovnih znamk Tom Ford, Guess, Cavalli, Montbalnc, Dsquared, Swarovski, Gant, Timberland, Diesel..
+excerpt: Sončna očala in korekcijska očala priznanih blagovnih znamk Tom Ford, Guess, MaxMara, Max&co., Montbalnc, Swarovski, Gant, Timberland, Diesel..
 permalink: /znamke/
 sitemap: true
 
@@ -39,19 +39,19 @@ images:
 ---
 
 
-## Naši očala
+## Naša očala
 
 Adria Optika ima **[30 let izkušenj](/o-nas/)** na področju prodaje in servisa optike.
 Očala za vid niso le pomoč s katero si pomagamo zmanjšati primankljaj vida. Je tudi dodatek, ki uzvišuje vaš videz, ki dopolni vaš stil in se mora prilagoditi različnim trenutkom vašega vsakdanja: služba, prosi čas, šport.
 
 ## Smo generalni zastopnik Marcolin Eyewear za Slovenijo
 [Sončna očala & korekcijska očala](/ocala/):
-**Tom Ford**, **Roberto Cavalli**, **Dsquared**, **Diesel**, **Just Cavalli**, **Guess**, **Timberland**, **Guess Marciano**, **Mont Blanc**, **Gant** ...
+**Tom Ford**, **Guess**, **Timberland**, **Guess Marciano**, **Gant**, **MaxMara**, **Mac&Co.**, **Harley Davidson**, **Adidas Originals**, **Adidas Sport**, **Skechers**, **GCDS**, **BMW Motosport**, **Pucci**,...
 
 <br/>
 
 <ul class="photo-gallery">
   {% for image in page.images %}
-    <li><a target="popupwindow" rel="nofollow noreferrer" onclick="window.open('http://en.marcolin.com/brands/', 'popupwindow', 'scrollbars=yes,width=800,height=500');return true"><img class="transform-big" src="{{ image.image_path }}" alt="{{ image.title}}" title="{{ image.title}}"/></a></li>
+    <li><a target="popupwindow" rel="nofollow noreferrer" onclick="window.open('http://marcolin.com/en/brand/', 'popupwindow', 'scrollbars=yes,width=800,height=500');return true"><img class="transform-big" src="{{ image.image_path }}" alt="{{ image.title}}" title="{{ image.title}}"/></a></li>
   {% endfor %}
 </ul>
