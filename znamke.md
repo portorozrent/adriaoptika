@@ -48,6 +48,8 @@ Očala za vid niso le medicinski pripomoček s katerim si pomagamo pri izboljša
 [Sončna očala & korekcijska očala](/ocala/):
 **Tom Ford**, **Guess**, **Timberland**, **Guess Marciano**, **Gant**, **MaxMara**, **Mac&Co.**, **Harley Davidson**, **Adidas Originals**, **Adidas Sport**, **Skechers**, **GCDS**, **BMW Motosport**, **Pucci**,...
 
+<br>
+
 ## V naši optiki vam ponujamo:
 
 <br/>
