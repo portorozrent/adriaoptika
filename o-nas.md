@@ -7,8 +7,7 @@ permalink: /o-nas/
 
 ## Adria Optika samo najboljše za vaše oči
 
-Smo optika v Portorožu z **30 letno tradicijo**. Nahajamo se na naslovu Obala 26 v neposredni bližini tenis igrišč. Pri nas lahko izbirate [med pestro ponudbo korekcijskih ter sončnih očal](/znamke/) vodilnih svetovnih blagovnih znamk kot so **Tom Ford**, **Roberto Cavalli**, **Dsquared**, **Diesel**, **Just Cavalli**, **Guess**, **Timberland**, **Guess Marciano**, **Mont Blanc**, **Gant**.
-
+Smo optika v Portorožu z **več kot 30 letno tradicijo**. Pri nas lahko izbirate med pestro ponudbo korekcijskih ter sončnih očal vodilnih svetovnih blagovnih znamk kot so <b>Tom Ford, Guess, Ray-Ban, MaxMara, Max&Co., Gucci, Saint Laurent, Swarovski, Dior, Silhuette, Adidas, Kador,... </b>
 Pohvalimo se lahko tudi z  sodobno očesno ambulanto z **najsodobnejšimi optičnimi stroji in napravami**.
 
 ## Pregled vida
