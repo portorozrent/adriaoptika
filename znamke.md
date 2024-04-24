@@ -34,7 +34,7 @@ images:
     title: Maricano by Guess
   - image_path: /img/brand/SKECHERS_LOGO.jpg
     title: Skechers
-  - image_path: /img/brand/TIMBERLAND_LOGO.jpg
+  - image_path: /img/brand/TIMBERLAND_LOGO_2.png
     title: Timberland
 ---
 
