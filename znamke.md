@@ -45,7 +45,7 @@ Adria Optika ima **[več kot 30 let izkušenj](/o-nas/)** na področju prodaje i
 Očala za vid niso le medicinski pripomoček s katerim si pomagamo pri izboljšanju vida, vendar so tudi modni dodatek, ki dopolni vaš stil. 
 
 ## Adria Plast d.o.o. je generalni zastopnik Marcolin Eyewear za slovensko tržišče
-[Sončna očala & korekcijska očala](/ocala/):
+[Sončna & korekcijska očala](/ocala/):
 **Tom Ford**, **Guess**, **Timberland**, **Guess Marciano**, **Gant**, **MaxMara**, **Mac&Co.**, **Harley Davidson**, **Adidas Originals**, **Adidas Sport**, **Skechers**, **GCDS**, **BMW Motosport**, **Pucci**,...
 
 <br>
