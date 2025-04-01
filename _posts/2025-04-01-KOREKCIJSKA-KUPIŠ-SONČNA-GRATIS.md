@@ -15,7 +15,7 @@ categories: novice
   <img src="/img/korekcija-sonce-Adria-optika.webp" alt="Gratis sončna stekla">
  <br>
  <br>
-<font size="1">*Akcija velja ob nakupu progresivnih stekel, okvirja in montaže hkrati. V paket so vključeni označeni okvirji in multifokalna stekla z antirefleksom dioptrij od +6,00 do -10,00, cyl do +4,00 in add od 0,75 do 3,50. Akcije se med seboj izključujejo in se ne seštevajo. Akcija velja od 01.04.2025 do 30.06.2025 oz. do razprodaje zalog.</font>
+<font size="1">*Akcija velja ob nakupu enožariščnih stekel, okvirja in montaže hkrati. Velja za dioptrije +/- 4,00 dpt. do +2,00 cyl, za material 1.5. Akcije se med seboj izključujejo in se ne seštevajo. Akcija velja od 01.04.2025 do 30.06.2025 oz. do razprodaje zalog.</font>
 
  
 </BODY>
