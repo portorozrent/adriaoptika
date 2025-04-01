@@ -7,8 +7,10 @@ categories: novice
 <body>
 <h1><b>Progresivna očala že za 179€</b>*</h1>
 
-<h2><b>V paketu prejmete:</b></h2> <br>
+<b>V paketu prejmete:</b> <br>
   <br>
+<body>
+  
   - <b>korekcijski okvir priznane blagovne znamke</b> (Guess, Swarovski, Timberland, Adidas, Harley Davidson, MaxMara, Max&Co., Gant,...)<br>
   - <b>progresivna</b> (multifokalna) <b>stekla</b> z vključenim antirefleksnim slojem svetovno priznanega proizvajalca <b>Hoya</b><br>
   - <b>brezplačno meritev dioptrije</b><br>
