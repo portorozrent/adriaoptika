@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "GRATIS SONČNA STEKLA Z DIOPTRIJO"
+title:  "Korekcijska kupiš, sončna dobiš gratis!"
 date:   2025-04-01 09:16:06 +0100
 categories: novice
 ---
 
 <BODY>
- <H1><b>GRATIS SONČNA STEKLA Z DIOPTRIJO</b>*</H1>
+ <H1><b>Gratis sončna stekla z dioptrijo</b>*</H1>
   <p>Ob nakupu <b>enožariščnih korekcijskih očal</b> prejmete <b>sončna stekla</b> z isto dioptrijo <b>gratis</b>. </p>
  <br>
   <p>Združite <b>UV zaščito in jasen vid</b> z modnimi sončnimi očali najnovejših kolekcij. <b>Sončna očala z dioptrijo</b> so odlična rešitev za prihajajoče <b>poletne sončne dni</b>. </p>
