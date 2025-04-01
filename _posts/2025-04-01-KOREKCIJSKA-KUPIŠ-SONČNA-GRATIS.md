@@ -7,6 +7,6 @@ categories: novice
 
 <BODY>
 <H1>GRATIS SONČNA STEKLA Z DIOPTRIJO</H1>
-<p>Ob nakupu **enožariščnih korekcijskih očal** prejmete **sončna stekla** z isto dioptrijo **gratis**. </p>
+<p>Ob nakupu <b>enožariščnih korekcijskih očal</b>enožariščnih korekcijskih očal prejmete <b>sončna stekla</b> z isto dioptrijo <b>gratis</b>. </p>
  
 </BODY>
