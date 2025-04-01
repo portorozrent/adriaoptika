@@ -5,7 +5,7 @@ date:   2025-04-01 09:16:06 +0100
 categories: novice
 ---
 <body>
-<h1><b>Progresivna očala že za 179€*</b></h1>
+<h1><b>Progresivna očala že za 179€</b>*</h1>
 
 V paketu prejmete: <br>
   - <b>korekcijski okvir priznane blagovne znamke</b> (Guess, Swarovski, Timberland, Adidas, Harley Davidson, MaxMara, Max&Co., Gant,...)<br>
