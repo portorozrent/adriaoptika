@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Leče
-excerpt: Na zalogi imamo kontaktne leče podjetja Alcon in sicer enodnevne (Dailies Aqua Comfort plus).
+excerpt: Na zalogi imamo dnevne kontaktne leče Dailies Aqua Comfort Plus podjetja Alcon.
 permalink: /lece/
 ---
 
@@ -11,6 +11,6 @@ V mnogih življenjskih situacijah, še posebej pri **športnih aktivnostih** so 
 
 ## Naše kontaktne leče
 
-Na zalogi imamo kontaktne leče podjetja **Alcon** in sicer enodnevne (**Dailies Aqua Comfort plus**). Po potrebi oziroma na vašo željo lahko naročimo leče še nekaterih drugih proizvajalcev: **Alcon,** **Cooper Vision** (trenutno najbolj prodajane kontaktne leče na svetu), **Menicon** (kontaktne leče za najzahtevnejšega uporabnika – popolnoma individualni parametri), **Zeiss**.
+Na zalogi imamo dnevne kontaktne leče **Dailies Aqua Comfort Plus** podjetja **Alcon**. Po potrebi oziroma na vašo željo lahko naročimo leče še nekaterih drugih proizvajalcev: **Alcon,** **Cooper Vision** (trenutno najbolj prodajane kontaktne leče na svetu), **Menicon** (kontaktne leče za najzahtevnejšega uporabnika – popolnoma individualni parametri), **Zeiss**.
 
 ### Morda vas zanimajo tudi naša [očala](/ocala/) in naše blagovne [znamke](/znamke/).
