@@ -12,7 +12,7 @@ categories: novice
 <body>
   
   - <b>korekcijski okvir priznane blagovne znamke</b> (Guess, Swarovski, Timberland, Adidas, Harley Davidson, MaxMara, Max&Co., Gant,...)<br>
-  - <b>progresivna</b> (multifokalna) <b>stekla</b> z vključenim antirefleksnim slojem svetovno priznanega proizvajalca <b>Hoya</b><br>
+  - <b>progresivna</b> (multifokalna) <b>stekla</b> z vključenim antirefleksnim slojem <b>svetovno priznanega proizvajalca</b><br>
   - <b>brezplačno meritev dioptrije</b><br>
   - <b>etui in krpico</b><br>
 <br>
